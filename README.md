@@ -1,4 +1,4 @@
-# Antonio_Tian_PMDM
+# Act1 Ampliacion de contador
 ## 1.Analisis de la estructura de proyecto
 
 App Module: El módulo principal de la aplicación. Contiene todas las clases de código fuente, recursos y archivos relacionados con la aplicación.
