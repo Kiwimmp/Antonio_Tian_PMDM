@@ -13,8 +13,7 @@ AndroidManifest.xml: Archivo de configuración principal de la aplicación, dond
 
 Gradle Scripts: Archivos de configuración del sistema de compilación Gradle.
 
-imagen aqui:
-
+[(/imagen_act1/resurces.png)](https://github.com/Kiwimmp/Antonio_Tian_PMDM/blob/main/imagen_act1/resurces.png)
 
 
 ## 2.Analisi del ciclo de vida de y El problema de la perdida de estado
@@ -36,7 +35,8 @@ La clase MainActivity es una de las actividades de tu aplicación. En Android, u
 ## 3.Solucion a perdida de estado
 
 La pérdida de estado en la aplicación se debe a que no se gestiona adecuadamente el estado del contador cuando la actividad se destruye y vuelve a crearse, como en cambios de orientación de la pantalla. Para solucionar este problema, ya has implementado el uso de onSaveInstanceState y onRestoreInstanceState para guardar y restaurar el estado del contador cuando la actividad se recrea.
-imagen aquí:
+
+[imagen aquí:](https://github.com/Kiwimmp/Antonio_Tian_PMDM/blob/main/imagen_act1/ResolPerdidaDeEstado.PNG)
 
 
 ## 4.Ampliación de Funcionalidad con ***Reset*** y ***Resta***
